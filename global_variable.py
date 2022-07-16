@@ -48,7 +48,7 @@ def global_initialization():
     global headers
     
     headers = {
-    "X-RapidAPI-Key": "0c86aab83fmsh048347b7f97485dp1ae8b9jsn2d7ce9c5ddfd",
+    "X-RapidAPI-Key": "xxxxx",
     "X-RapidAPI-Host": "aerodatabox.p.rapidapi.com"
     }
     
